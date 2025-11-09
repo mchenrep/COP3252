@@ -1,7 +1,7 @@
 # Contents
 This repository contains all of my projects/assignments done for COP3252 (Advanced Programming in Java) course.
 
-#Requirements
+# Requirements
 JRE (Java Runtime Environment)
 JDK (Java Development Kit)
 Java 1.5.0
