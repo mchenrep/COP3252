@@ -2,9 +2,9 @@
 This repository contains all of my projects/assignments done for COP3252 (Advanced Programming in Java) course.
 
 # Requirements
-JRE (Java Runtime Environment)
-JDK (Java Development Kit)
-Java 1.5.0
+- JRE (Java Runtime Environment)
+- JDK (Java Development Kit)
+- Java 1.5.0 or above
 
 # How To Run
 1. Make sure you have all the requirements installed on your device
